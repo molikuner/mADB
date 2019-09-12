@@ -7,7 +7,7 @@ buildscript {
     ext.ktx_collection_version = '1.1.0'
     ext.ktx_core_version = '1.1.0'
     ext.ktx_lifecycle_viewmodel_version = '2.1.0'
-    ext.libsu_version = '2.5.0'
+    ext.libsu_version = '2.5.1'
     ext.lifecycle_version = '2.1.0'
     ext.material_version = '1.1.0-alpha10'
     ext.support_version = '1.0.0'
